@@ -7,5 +7,4 @@ repulsion at the surface. [https://arxiv.org/abs/1703.06493]
  MATLAB
  
  # References
- E. Herrera, I. Guillamón, J.A. Galvis, A. Correa, A. Fente, S. Vieira, H. Suderow, A.Yu. Martinovich, V.G. Kogan. *Subsurface bending and reorientation of tilted vortex lattices in the bulk due to Coulomb-like repulsion at the surface.*
  https://arxiv.org/abs/1703.06493 (2017)
